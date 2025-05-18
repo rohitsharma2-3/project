@@ -30,8 +30,22 @@ This is a simple two-player Tic Tac Toe game built using **React JS**. The game 
 
 ---
 
-## ▶️ Run Locally
 
-1. Clone the project:-
-   
+## ▶️ Getting Started (Run Locally)
+
+1. Clone the repo:
+   ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
+   
+2. Navigate into the project directory:
+   ```bash
+   cd tic-tac-toe
+      
+3. Install dependencies:
+   ```bash
+    npm install
+
+4. Start the development server:
+```bash
+    npm run dev
+
